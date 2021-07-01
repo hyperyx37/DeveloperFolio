@@ -6,6 +6,7 @@ import {Fade} from "react-reveal";
 import codingPerson from "../../assets/lottie/codingPerson";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 import StyleContext from "../../contexts/StyleContext";
+import ImageSoftwareSkill from "../../components/imageSoftwareSkill/imageSoftwareSkill";
 
 export default function Skills() {
   const {isDark} = useContext(StyleContext);
@@ -43,6 +44,7 @@ export default function Skills() {
             >
               {skillsSection.subTitle}
             </p>
+            <ImageSoftwareSkill />
             <SoftwareSkill />
             <div>
               {skillsSection.skills.map((skills, i) => {
