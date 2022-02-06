@@ -1,51 +1,51 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8c5cd6f32de8efb5bfb0530b031decbe",
+    "revision": "c14dcac6bcbe0fe5f35304385807e24d",
     "url": "/developerFolio/index.html"
   },
   {
-    "revision": "280cf001e003de2ac0bf",
+    "revision": "4f136e9651d0d4830b11",
     "url": "/developerFolio/static/css/3.25727338.chunk.css"
   },
   {
-    "revision": "244bc891174ab4703aef",
+    "revision": "f535106cccfa7d68d150",
     "url": "/developerFolio/static/css/4.a8329f31.chunk.css"
   },
   {
-    "revision": "66472ef0885130d518b3",
+    "revision": "9a6be6e563c25d2c062e",
     "url": "/developerFolio/static/css/main.28937eb9.chunk.css"
   },
   {
-    "revision": "12e8be7fe01d068fd43b",
-    "url": "/developerFolio/static/js/2.dbcff2c4.chunk.js"
+    "revision": "560fe1c14bfb02497461",
+    "url": "/developerFolio/static/js/2.7a04c0df.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/developerFolio/static/js/2.dbcff2c4.chunk.js.LICENSE.txt"
+    "url": "/developerFolio/static/js/2.7a04c0df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "280cf001e003de2ac0bf",
-    "url": "/developerFolio/static/js/3.8eb34b95.chunk.js"
+    "revision": "4f136e9651d0d4830b11",
+    "url": "/developerFolio/static/js/3.a21a2b10.chunk.js"
   },
   {
-    "revision": "244bc891174ab4703aef",
-    "url": "/developerFolio/static/js/4.fce59b02.chunk.js"
+    "revision": "f535106cccfa7d68d150",
+    "url": "/developerFolio/static/js/4.7add3b74.chunk.js"
   },
   {
-    "revision": "66472ef0885130d518b3",
-    "url": "/developerFolio/static/js/main.55d2c914.chunk.js"
+    "revision": "9a6be6e563c25d2c062e",
+    "url": "/developerFolio/static/js/main.d9e49aeb.chunk.js"
   },
   {
-    "revision": "7e416a86a3f6ea44afc6",
-    "url": "/developerFolio/static/js/runtime-main.0b5f1841.js"
+    "revision": "4e182ca8c5be76c98db9",
+    "url": "/developerFolio/static/js/runtime-main.94ee83da.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
     "url": "/developerFolio/static/media/Agustina.a3752c4b.woff"
   },
   {
-    "revision": "59a6979d4be1bebb30841252c38613b9",
-    "url": "/developerFolio/static/media/Github.59a6979d.png"
+    "revision": "b4eb6f1e1724391ebd200be94d9f2fe5",
+    "url": "/developerFolio/static/media/Github.b4eb6f1e.png"
   },
   {
     "revision": "f4d539c8a4a27eefcfbb7976881d973c",
@@ -56,16 +56,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/Montserrat-Regular.847627bf.ttf"
   },
   {
-    "revision": "5cae841e5205c1c10dc23c05449004da",
-    "url": "/developerFolio/static/media/OhioLogo.5cae841e.jpg"
+    "revision": "166c4c2d26f23b699186fa6070b84a19",
+    "url": "/developerFolio/static/media/OhioLogo.166c4c2d.jpg"
   },
   {
     "revision": "2b0ccea0c8c9f692004f5a89499cecd0",
     "url": "/developerFolio/static/media/Westernlogo.2b0ccea0.jpg"
   },
   {
-    "revision": "5e92ece193b7328eeafae7082abb5a8f",
-    "url": "/developerFolio/static/media/airbnbLogo.5e92ece1.png"
+    "revision": "8f0d6e6910c293bfbe45d227292c572d",
+    "url": "/developerFolio/static/media/broadridge-logo.8f0d6e69.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -80,10 +80,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/developerFolio/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "4cc9fd84110d1bbc2e5b57b3bb1dad16",
-    "url": "/developerFolio/static/media/facebookLogo.4cc9fd84.png"
-  },
-  {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/developerFolio/static/media/googleAssistantLogo.e79c6392.webp"
   },
@@ -94,10 +90,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/developerFolio/static/media/pwaLogo.ee62cb58.webp"
-  },
-  {
-    "revision": "507c3a23f87ee1560ad62c7ce8139e1b",
-    "url": "/developerFolio/static/media/quoraLogo.507c3a23.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
