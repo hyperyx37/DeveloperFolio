@@ -14,10 +14,10 @@ const greeting = {
   username: "Yang Xu",
   title: "Hi all, I'm Yang",
   subTitle: emoji(
-    "A recent new grad majored in Electrical and Computer Engineering, having both software and hardware programming knowledges. Seeking for Opportunities in Software Development."
+    "A Backend Developer with considerable training and passion to solve problems and grow, is fast-learning, self-motivated and able to work well in a team. Seeking for Opportunities in Software Development."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/145m_SvcWkohcvbE5SndLtEUawN7I_i8N/view?usp=sharing",
+    "https://drive.google.com/file/d/1QDSaZ2QJPBS5sWJ3FsyihTMSsCDArsCY/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -132,32 +132,19 @@ const techStack = {
 // Work experience section
 
 const workExperiences = {
-  display: false, //Set it to true to show workExperiences Section
+  display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Associate Software Developer",
+      company: "Broadridge",
+      companylogo: require("./assets/images/broadridge-L=logo.png"),
+      date: "Sep 2021 – Present",
+      desc: "Working as an Backend Developer, main stack Java and PL/SQL",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Build and optimize SQL server queries and Java code",
+        "Develop and maintain financial solution applications",
+        "Use version control tool Subversion(SVN), project modeling tool Rational Rose, IBM liberty Server and internal project management tool"
       ]
-    },
-    {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    },
-    {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
 };
