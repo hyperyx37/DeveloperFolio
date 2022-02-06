@@ -137,7 +137,7 @@ const workExperiences = {
     {
       role: "Associate Software Developer",
       company: "Broadridge",
-      companylogo: require("./assets/images/broadridge-L=logo.png"),
+      companylogo: require("./assets/images/broadridge-logo.png"),
       date: "Sep 2021 – Present",
       desc: "Working as an Backend Developer, main stack Java and PL/SQL",
       descBullets: [
